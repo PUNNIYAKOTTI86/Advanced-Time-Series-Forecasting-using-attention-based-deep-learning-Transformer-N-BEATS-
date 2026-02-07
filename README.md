@@ -1,0 +1,2 @@
+# Advanced-Time-Series-Forecasting-using-attention-based-deep-learning-Transformer-N-BEATS-
+Advanced Time Series Forecasting using attention-based deep learning (Transformer/N-BEATS). Use a real-world dataset, preprocess and scale data, tune hyperparameters, and train the model. Compare performance with a classical baseline (SARIMAX/Prophet) using RMSE, MASE, and WAPE. Submit code, configs, and results.
